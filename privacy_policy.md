@@ -53,7 +53,7 @@ We may update this Privacy Policy from time to time. Any updates will be reflect
 ## 10. Contact Us
 If you have any questions or concerns about this Privacy Policy or how the app works, please contact us at:  
 
-**Email :** somalathaweerakoon1978@gmail.com
+**Email :** helpstatusverse@gmail.com
 
 ## Key Features of Status Verse App
 - **Local Access Only**: Fetches and displays statuses stored locally on your device.  
